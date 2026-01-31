@@ -2,9 +2,7 @@
 @@ -0,0 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Questions & Support Requests
-    url: https://community.zama.ai
-    about: Ask in the Zama community forum
+ 
 @@ -0,0 +1,31 @@
 name: "Gateway Contracts Issue"
 description: File any issue related to the gateway-contracts component
@@ -29,7 +27,9 @@ body:
       description: Any additional information, context, or links that help understand the issue
     validations:
       required: false
-
+ - name: Questions & Support Requests
+    url: https://community.zama.ai
+    about: Ask in the Zama community forum
   - type: textarea
     id: steps
     attributes:
